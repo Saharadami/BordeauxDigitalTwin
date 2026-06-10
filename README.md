@@ -1,5 +1,9 @@
 # BordeauxDigitalTwin
-Bordeaux Digital Twin - Traffic &amp; Weather Simulation using SUMO and Unity
+Implemented Bordeaux road network as a graph (nodes + edges) 
+georeferenced and placed on real terrain using Cesium for Unity. 
+Road data sourced from OpenStreetMap GeoJSON. 
+Next step: integrating SUMO traffic simulation output (FCD) 
+to animate vehicles on the network.
 
 
 ## Bordeaux Digital Twin
